@@ -25,10 +25,10 @@ Para ejecutar este proyecto, necesitas tener instalado:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/MVisedo/IntegradorJs.git
 2. Navega al directorio del proyecto:
    ```bash
-   cd tu-repositorio
+   cd IntegradorJs
 3. Instala las dependencias:
    ```bash
    npm install
